@@ -1,0 +1,11 @@
+D:\practica2\Services.Models\bin\Debug\net9.0\Services.Models.deps.json
+D:\practica2\Services.Models\bin\Debug\net9.0\Services.Models.dll
+D:\practica2\Services.Models\bin\Debug\net9.0\Services.Models.pdb
+D:\practica2\Services.Models\obj\Debug\net9.0\Services.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\practica2\Services.Models\obj\Debug\net9.0\Services.Models.AssemblyInfoInputs.cache
+D:\practica2\Services.Models\obj\Debug\net9.0\Services.Models.AssemblyInfo.cs
+D:\practica2\Services.Models\obj\Debug\net9.0\Services.Models.csproj.CoreCompileInputs.cache
+D:\practica2\Services.Models\obj\Debug\net9.0\Services.Models.dll
+D:\practica2\Services.Models\obj\Debug\net9.0\refint\Services.Models.dll
+D:\practica2\Services.Models\obj\Debug\net9.0\Services.Models.pdb
+D:\practica2\Services.Models\obj\Debug\net9.0\ref\Services.Models.dll

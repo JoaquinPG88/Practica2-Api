@@ -1,0 +1,11 @@
+D:\practica2\BusinessLogic.Models\bin\Debug\net9.0\BusinessLogic.Models.deps.json
+D:\practica2\BusinessLogic.Models\bin\Debug\net9.0\BusinessLogic.Models.dll
+D:\practica2\BusinessLogic.Models\bin\Debug\net9.0\BusinessLogic.Models.pdb
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\BusinessLogic.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\BusinessLogic.Models.AssemblyInfoInputs.cache
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\BusinessLogic.Models.AssemblyInfo.cs
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\BusinessLogic.Models.csproj.CoreCompileInputs.cache
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\BusinessLogic.Models.dll
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\refint\BusinessLogic.Models.dll
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\BusinessLogic.Models.pdb
+D:\practica2\BusinessLogic.Models\obj\Debug\net9.0\ref\BusinessLogic.Models.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2dyR+hpnRA=",
+  "success": true,
+  "projectFilePath": "D:\\practica2\\BusinessLogic.Managers\\BusinessLogic.Managers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpere\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpere\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512",
+    "C:\\Users\\jpere\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jpere\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

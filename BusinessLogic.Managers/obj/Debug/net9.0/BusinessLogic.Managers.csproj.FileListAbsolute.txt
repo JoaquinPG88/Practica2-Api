@@ -1,0 +1,17 @@
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.csproj.AssemblyReference.cache
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.GeneratedMSBuildEditorConfig.editorconfig
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.AssemblyInfoInputs.cache
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.AssemblyInfo.cs
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.csproj.CoreCompileInputs.cache
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\BusinessLogic.Managers.deps.json
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\BusinessLogic.Managers.dll
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\BusinessLogic.Managers.pdb
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\Services.ExternalServices.dll
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\Services.Models.dll
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\Services.ExternalServices.pdb
+D:\practica2\BusinessLogic.Managers\bin\Debug\net9.0\Services.Models.pdb
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\Business.69707EFC.Up2Date
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.dll
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\refint\BusinessLogic.Managers.dll
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\BusinessLogic.Managers.pdb
+D:\practica2\BusinessLogic.Managers\obj\Debug\net9.0\ref\BusinessLogic.Managers.dll
